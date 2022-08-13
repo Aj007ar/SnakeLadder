@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\refint\SnakeLadder.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Snake Ladder\SnakeLadder\SnakeLadder\obj\Debug\net6.0\ref\SnakeLadder.dll
